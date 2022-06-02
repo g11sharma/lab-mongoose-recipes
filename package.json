@@ -12,6 +12,7 @@
     "nodemon": "^2.0.2"
   },
   "dependencies": {
-    "mongoose": "^6.1.2"
+    "install": "^0.13.0",
+    "mongoose": "^6.3.5"
   }
 }
